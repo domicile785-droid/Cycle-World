@@ -1,0 +1,7 @@
+{
+  "name": "CycleHub - Premium Cycle Marketplace",
+  "description": "A high-end cycle selling web app with manual bank transfer payment verification, admin dashboard, and automated invoice/shipping label generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
